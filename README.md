@@ -30,7 +30,7 @@ I spent the last decade working across frontend, backend, internal tools, billin
 
 ## ✨ Focus
 
-* Building frontend systems with **React, TypeScript and Node.js**
+* Building product-facing systems with React, TypeScript, Next.js, Node.js and APIs
 * Designing product workflows for **SaaS, billing, internal tools and support teams**
 * Exploring **AI-assisted interfaces** with structured outputs, retrieval evaluation and human review
 
