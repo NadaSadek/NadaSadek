@@ -28,9 +28,9 @@ I'm a senior software engineer based in Berlin, focused on building practical, p
 
 I spent the last decade working across frontend, backend, internal tools, billing flows and product-heavy SaaS systems. Recently, I've been building projects around AI evaluation, retrieval quality, review queues and developer-facing AI tools.
 
-## ✨ Current focus
+## ✨ Focus
 
-* Building senior-level frontend systems with **React, TypeScript and Node.js**
+* Building frontend systems with **React, TypeScript and Node.js**
 * Designing product workflows for **SaaS, billing, internal tools and support teams**
 * Exploring **AI-assisted interfaces** with structured outputs, retrieval evaluation and human review
 
