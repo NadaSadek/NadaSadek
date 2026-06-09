@@ -56,4 +56,4 @@ A review queue for support messages that identifies revenue-risk signals and tur
 
 
 ## Impressum & privacy 
-https://nadasadek.com/impressum/
+[Impressum / Datenschutz](https://nadasadek.com/impressum/)
