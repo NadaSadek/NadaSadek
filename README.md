@@ -53,3 +53,7 @@ A review queue for support messages that identifies revenue-risk signals and tur
 
 * [LinkedIn](https://www.linkedin.com/in/nadasadek)
 * [Email](mailto:nadafasadek@gmail.com)
+
+
+## Impressum & privacy 
+https://nadasadek.com/impressum/
