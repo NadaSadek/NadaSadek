@@ -52,8 +52,4 @@ A review queue for support messages that identifies revenue-risk signals and tur
 ## 📫 How to reach me
 
 * [LinkedIn](https://www.linkedin.com/in/nadasadek)
-* [Email](mailto:nadafasadek@gmail.com)
-
-
-## Impressum & privacy 
-[Impressum / Datenschutz](https://nadasadek.com/impressum/)
+* [Email](mailto:nada@nadasadek.com)
